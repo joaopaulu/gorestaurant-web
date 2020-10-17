@@ -25,13 +25,13 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p>
-  **GoRestaurant** is a simple application made with React using a local API json server that simulates an online purchase in a restaurant, where the customer can insert, edit and delete a dish. A basic CRUD performed during the Rocketseat Gostack course.
-  </p>
+**GoRestaurant** is a simple application made with **React** using a local API json server that simulates an online purchase in a restaurant, where the customer can insert, edit and delete a dish. A basic CRUD performed during the Rocketseat Gostack course.
+
 
 To see the **api**, yarn json-server server.json -p 3333 </br>
 
 ## Layout project
+![gorestaurant](https://user-images.githubusercontent.com/66692428/96355269-148fe900-10b6-11eb-9256-3879fbc843a3.gif)
 
 ## 🚀 Technologies
 
