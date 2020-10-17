@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
+      "image": "http://www.ticianawerner.com.br/img/cd/cd_2020713131155.jpg",
+      "name": "Risoto de camarão com manga",
+      "price": "45",
+      "description": "Arroz arbóreo, alho, cebola, tomilho, camarão flambados, alho-poró, manga, muçarela de búfala e cream cheese.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 3
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "http://www.ticianawerner.com.br/img/cd/cd_2020713132445.jpg",
+      "name": "Risoto de filé",
+      "price": "42",
+      "description": "Arroz arbóreo, filé mignon picado, cebola, alho, tomilho, gorgonzola, parmesão, salsa e creme de leite.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 4
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "image": "http://www.ticianawerner.com.br/img/cd/cd_2020713135020.jpg",
+      "name": "Salada com shimeji e balsâmico",
+      "price": "29,50",
+      "description": "Mix de folhas com cogumelo shimeji grelhado em redução de aceto balsâmico com tomate cereja e parmesão.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 5
     }
   ]
 }
